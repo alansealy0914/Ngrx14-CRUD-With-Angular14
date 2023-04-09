@@ -4,13 +4,19 @@
       "id": 1,
       "name": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
-      "cost": 520
+      "cost": 570
     },
     {
       "id": 2,
       "author": "Lewis Carroll",
       "name": "Alice's Adventures in Wonderland",
       "cost": 340
+    },
+    {
+      "id": 3,
+      "author": "Alan Sealy",
+      "name": "AAA",
+      "cost": 200
     }
   ]
 }
