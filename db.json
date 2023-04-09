@@ -17,6 +17,42 @@
       "author": "Alan Sealy",
       "name": "AAA",
       "cost": 200
+    },
+    {
+      "id": 4,
+      "author": "Ruth Sealy",
+      "name": "Ruthies Book",
+      "cost": 900
+    },
+    {
+      "id": 5,
+      "author": "Raheem Sealy",
+      "name": "Heemies Book",
+      "cost": 678
+    },
+    {
+      "id": 6,
+      "author": "Amila Gonzales",
+      "name": "Amila's Book",
+      "cost": 654
+    },
+    {
+      "id": 7,
+      "author": "Aiyoona G",
+      "name": "Yonni's Book",
+      "cost": 1000
+    },
+    {
+      "id": 8,
+      "author": "Nakia Sealy",
+      "name": "Ki Ki's Book",
+      "cost": 3000
+    },
+    {
+      "id": 9,
+      "author": "Sophia Sealy",
+      "name": "Miss Momma's",
+      "cost": 30
     }
   ]
 }
